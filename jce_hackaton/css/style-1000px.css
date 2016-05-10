@@ -1,0 +1,40 @@
+/*
+	Synchronous by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+*/
+#divCandidatos{
+	text-align: center;
+
+}
+
+
+#div_como_votar{
+	text-align: center;
+}
+
+#div_como_votar_Dos{
+	
+	width: 200px;
+	text-align: left;
+	margin-left: 30px;
+}
+#divVotar{
+	margin: 0 auto;
+	width: 420px;
+	text-align: center;
+}
+
+.parrafos{
+	padding: 15px;
+	text-align: justify;
+	font-size: 20px;
+	
+}
+
+.img{
+
+	width: 250px;
+	height: 250px;
+}
+
